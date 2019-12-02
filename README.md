@@ -9,6 +9,9 @@ Pacemaker like IIDX that works in etterna
 - spawncamping-wallhack
 - (Tell me if this work in other theme tho)
 
+# Known Issue
+- diffspikes not visible
+
 # How to install???
 - Copy pacemaker.lua to `/Themes/{your theme}/BGAnimations/ScreenGameplay overlay`
 - Open default.lua in `/Themes/{your theme}/BGAnimations/ScreenGameplay overlay`
