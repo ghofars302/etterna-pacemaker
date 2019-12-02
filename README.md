@@ -1,6 +1,6 @@
 # etterna-pacemaker
 Pacemaker like IIDX that works in etterna
-![bruh](https://mega-weeb.monox.xyz/f/1d33cd.png "Example")
+![bruh](https://mega-weeb.monox.xyz/f/848cf2.png "Example")
 
 > Note: If you dev or so whatever please help me clean the useless code in this lua file as i don't have time to clean it
 
